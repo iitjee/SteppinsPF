@@ -1,0 +1,6 @@
+- Read about design patterns
+      ° MVC: The Model-View-Controller architecture
+      ° The Registry pattern
+      ° The Factory pattern
+      ° The Front Controller pattern
+      
